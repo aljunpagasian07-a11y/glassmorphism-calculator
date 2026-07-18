@@ -6,7 +6,7 @@ A sleek, minimalist calculator built with **PyQt6** featuring a modern glassmorp
 ![PyQt6](https://img.shields.io/badge/PyQt6-6.4+-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](assets/preview.png)
 
 ## ✨ Features
 
